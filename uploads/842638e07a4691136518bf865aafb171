@@ -1,0 +1,142 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option1 Linked To,Option2 Name,Option2 Value,Option2 Linked To,Option3 Name,Option3 Value,Option3 Linked To,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Google: Custom Product (product.metafields.mm-google-shopping.custom_product),Product rating count (product.metafields.reviews.rating_count),Book cover type (product.metafields.shopify.book-cover-type),Genre (product.metafields.shopify.genre),Language version (product.metafields.shopify.language-version),Target audience (product.metafields.shopify.target-audience),Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Status
+lost-in-the-enchanted-jungle,Lost in the Enchanted Jungle,"<article data-scroll-anchor=""true"" data-testid=""conversation-turn-10"" dir=""auto"" class=""w-full text-token-text-primary"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-model-slug=""gpt-4o"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" dir=""auto"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" data-message-author-role=""assistant"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""943"" data-end=""1162"" class="""">After wandering off the trail, two explorers find themselves in a magical jungle filled with talking animals, glowing plants, and enchanted paths. Can they find their way back home?</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,10,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/Book_Mockup.png?v=1743949729,1,,FALSE,,,,,,,,,,,,,,,1,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+lost-in-the-enchanted-jungle,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/ChatGPT_Image_Apr_6_2025_07_58_22_PM.png?v=1743949762,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
+mission-to-mars-a-galactic-adventure,Mission to Mars: A Galactic Adventure,"<article data-scroll-anchor=""true"" data-testid=""conversation-turn-10"" dir=""auto"" class=""w-full text-token-text-primary"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-model-slug=""gpt-4o"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" dir=""auto"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" data-message-author-role=""assistant"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""534"" data-end=""734"" class="""">Get ready to blast off! Join Commander Zara and her robot pal Chip as they explore the red planet, meet alien friends, and uncover secrets of the galaxy!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,10,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookMockup_5dd86b91-5c37-437f-8809-296af1fb8c09.png?v=1743957959,1,,FALSE,,,,,,,,,,,,,,,,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+mission-to-mars-a-galactic-adventure,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookStaging_eaacf6c2-20e6-46bf-bc15-6267e601f261.png?v=1743957959,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
+the-kingdom-of-dragons-your-legendary-quest-1,The Kingdom of Dragons: Your Legendary Quest,"<article data-scroll-anchor=""true"" data-testid=""conversation-turn-10"" dir=""auto"" class=""w-full text-token-text-primary"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-model-slug=""gpt-4o"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" dir=""auto"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" data-message-author-role=""assistant"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""336"" data-end=""532"" class="""">Grab your sword and hop on a dragon! In this magical kingdom, <em data-start=""452"" data-end=""457"">you</em> are the hero on a wild quest to save the dragons from a mysterious danger.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,10,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/Book_Mockup_54d90d0f-8ff5-482d-81a7-9cce9c55386d.png?v=1743959091,1,,FALSE,,,,,,,,,,,,,,,,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+the-kingdom-of-dragons-your-legendary-quest-1,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/Book_Staging.png?v=1743959091,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
+the-secret-island-of-mystara,The Secret Island of Mystara,"<article data-scroll-anchor=""true"" data-testid=""conversation-turn-10"" dir=""auto"" class=""w-full text-token-text-primary"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-model-slug=""gpt-4o"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" dir=""auto"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" data-message-author-role=""assistant"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""1164"" data-end=""1359"" class="""">A magical map leads a group of friends to a hidden island. There, they discover strange creatures, tricky riddles, and a secret that could change everything!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,9,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookMockup.png?v=1743951703,1,,FALSE,,,,,,,,,,,,,,,,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+the-secret-island-of-mystara,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookStaging.png?v=1743951703,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
+the-shadow-thief-a-battle-for-justice,The Shadow Thief: A Battle for Justice,"<article class=""w-full text-token-text-primary"" dir=""auto"" data-testid=""conversation-turn-10"" data-scroll-anchor=""true"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-author-role=""assistant"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" dir=""auto"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" data-message-model-slug=""gpt-4o"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""107"" data-end=""334"" class="""">When shadows start disappearing from the village, young hero Max teams up with his brave cat Luna to catch the sneaky Shadow Thief and bring light and justice back to their world!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,10,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookMockup_a52313d2-ee84-4bdc-bfc1-363c39e9b69e.png?v=1743956455,1,,FALSE,,,,,,,,,,,,,,,,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+the-shadow-thief-a-battle-for-justice,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookStaging_V2.png?v=1743956455,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
+the-shadow-thief-a-battle-for-justice,,,,,,,,,,,,,,,,,,,,,,,,,,,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookStaging_413f771c-a604-4645-a852-a10e52dd1c16.png?v=1743956455,3,,,,,,,,,,,,,,,,,,,,,,,,,,
+the-treasure-of-the-lost-pirates-a-personalized-adventure-book,The Treasure of the Lost Pirates,"<article data-scroll-anchor=""true"" data-testid=""conversation-turn-10"" dir=""auto"" class=""w-full text-token-text-primary"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-model-slug=""gpt-4o"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" dir=""auto"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" data-message-author-role=""assistant"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""1361"" data-end=""1581"" class="""">A mysterious old map leads to a daring pirate adventure! With clever thinking and teamwork, the brave treasure hunters dodge traps and search for the legendary pirate’s treasure.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,9,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookMockup_4d8a8bdf-bc44-4973-a3c2-166aac6b09d7.png?v=1743955298,1,,FALSE,,,,,,,,,,,,,,,,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+the-treasure-of-the-lost-pirates-a-personalized-adventure-book,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookStaging_8fcfe750-201a-4e74-bcb4-927aa12cb97a.png?v=1743955298,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
+the-wizard-s-apprentice-a-spellbinding-journey,The Wizard’s Apprentice: A Spellbinding Journey,"<article data-scroll-anchor=""true"" data-testid=""conversation-turn-10"" dir=""auto"" class=""w-full text-token-text-primary"">
+<div class=""text-base my-auto mx-auto py-5 px-6"">
+<div class=""mx-auto flex flex-1 text-base gap-4 md:gap-5 lg:gap-6 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group/turn-messages focus-visible:outline-none"" tabindex=""-1"">
+<div class=""group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn @xs/thread:px-0 @sm/thread:px-1.5 @md/thread:px-4"">
+<div class=""relative flex-col gap-1 md:gap-3"">
+<div class=""flex max-w-full flex-col flex-grow"">
+<div data-message-model-slug=""gpt-4o"" class=""min-h-8 text-message relative flex w-full flex-col items-end gap-2 whitespace-normal break-words text-start [.text-message+&amp;]:mt-5"" dir=""auto"" data-message-id=""28204c9b-9fab-491c-b547-cae2fd073a27"" data-message-author-role=""assistant"">
+<div class=""flex w-full flex-col gap-1 empty:hidden first:pt-[3px]"">
+<div class=""markdown prose w-full break-words dark:prose-invert dark"">
+<p data-start=""724"" data-end=""941"" class="""">A curious kid becomes a wizard’s apprentice and must learn real magic. But when a mischievous gremlin causes trouble, it’s up to the apprentice to save the day!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>",My Store,Media > Books > Print Books,,Adventure,TRUE,Book cover type,paperback,product.metafields.shopify.book-cover-type,,,,,,,,0,shopify,10,deny,manual,749,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookMockup_e90d1eb0-b48c-4b01-8d7c-1dd1a4daa444.png?v=1743957209,1,,FALSE,,,,,,,,,,,,,,,,paperback; hardcover,children; comics-graphic-novels,eng-english,kids,,kg,,50,active
+the-wizard-s-apprentice-a-spellbinding-journey,,,,,,,,,hardcover,,,,,,,,,0,shopify,10,deny,manual,849,699,TRUE,TRUE,,https://cdn.shopify.com/s/files/1/0935/1620/2266/files/BookStaging_e11c6027-30b8-440e-9519-d0a21ddf2f15.png?v=1743957209,2,,,,,,,,,,,,,,,,,,,,,,,kg,,50,
